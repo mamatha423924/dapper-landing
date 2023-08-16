@@ -35,6 +35,10 @@ margin-top: 1rem;
 padding: 8px;
 border-radius: 12px;
 }
+.ham{
+	margin-left: 113px;
+    margin-top: 20px;
+    }
 
 .hero{
     display: flex;
